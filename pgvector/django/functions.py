@@ -39,6 +39,7 @@ class CosineDistance(DistanceBase):
     function = ''
     arg_joiner = ' <=> '
     
+    
 class CosineSimilarity(DistanceBase):
     function = ''
     arg_joiner = ' <=> '
